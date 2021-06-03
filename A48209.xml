@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to a reverend minister of the Gospel of the Presbyterian perswasion Edinburgh, 4th March, 1689.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48209</idno><idno type="EEBO-CITATION">10788995</idno>
+  <idno type="VID">45891</idno>
+  <idno type="EEBO-PROQUEST">2248497311</idno>
+  
+            <idno type="STC">Wing L1696</idno>
+            <idno type="STC">ESTC R28978</idno>
+            <idno type="OCLC">10788995</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48209)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45891)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1387:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to a reverend minister of the Gospel of the Presbyterian perswasion Edinburgh, 4th March, 1689.</title>
+               </titleStmt>
+               <extent>[3] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Relations --  Presbyterian Church.</term>
+               <term type="corporate_name">Presbyterian Church --  Relations --  Church of England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:45891:1"/>
+            <pb facs="tcp:45891:1"/>
+            <head>A LETTER To a REVEREND MINISTER OF THE GOSPEL, OF THE PRESBYTERIAN PERSWASION.</head>
+            <opener>
+               <dateline>
+                  <hi>Edinburgh,</hi>
+                  <date>4th. March 1689.</date>
+               </dateline>
+               <salute>Reverend Sir,</salute>
+            </opener>
+            <p>VVHen in the <hi>Doctrinal Truths</hi> of the <hi>Reformed Religion,</hi> and in the substantial parts of <hi>Divine Worship,</hi> all sober <hi>Protestants</hi> of <hi>Epis<g ref="char:EOLhyphen"/>copal</hi> and <hi>Presbyterian perswasion</hi> are firmly united together; Our sad Divisions about <hi>Ecclesiastick Government</hi> (which have these many years mischieved us) are certainly inconsistent with the <hi>Gospel of Peace and Love,</hi> subservient to <hi>Popery;</hi> which would swallow us up quick: and scandalous to all thinking Men without the Church. Let me there<g ref="char:EOLhyphen"/>fore conjure you by the <hi>bloody Wounds of our holy Mother,</hi> who receiv<g ref="char:EOLhyphen"/>ed us by one <hi>Baptism,</hi> unto the <hi>profession of one Lord,</hi> and one <hi>Faith,</hi> that when the <hi>Episcopal Clergy,</hi> are of reconciling Inclinations you neglect not this Opportunity, of shewing your Abhorrence of wilful Separation. And that my fervent pursuance after peace, may have the Honour to Contribute in any way for so happy an Accommodation amongst <hi>Christian Brethren,</hi> pray suffer me in all that tender Compassion that becometh a <hi>Minister</hi> of <hi>Salvation</hi> by a dying <hi>Saviour,</hi> to put you in Remembrance, of those three certain Matters of Fact. <hi>First,</hi> That the Representative <hi>Church of Scotland</hi> never confess'd any <hi>Divine Right</hi> in <hi>Presbytry.</hi> 2dly. That the <hi>Solemn League</hi> did never abjure the <hi>president Bishop,</hi> Regulated by <hi>Canons,</hi> and bal<g ref="char:EOLhyphen"/>lanced
+<pb facs="tcp:45891:2"/>by assisting <hi>Presbyters.</hi> 3dly, that the Reverend <hi>Ministers</hi> in <hi>England,</hi> for providing against Violation of that <hi>Covenant,</hi> petitioned for such an <hi>Episcopacy,</hi> as is liker to our present Establishment, then any other seen by the <hi>Christian World</hi> these thousand Years.</p>
+            <p>
+               <hi>First,</hi> The Representative Church of <hi>Scotland</hi> never confess'd any Divi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Right in <hi>Presbytry,</hi> since the blessed <hi>Reformation:</hi> Of her Confessions we have but two; The 1st. in K. <hi>James</hi> 6. Reign avow<g ref="char:EOLhyphen"/>eth in 19 Act about the No<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es of Holy Church that <hi>Ecclesiastical Dis<g ref="char:EOLhyphen"/>cipline</hi> is rightly Administrat as Gods words prescribs, whereby Vice is Repressed and Vertue Nourished; and lest it should be imagined that <hi>Presbytery</hi> can only aff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord such a Discipline, The 21 <hi>Act</hi> avoweth that no Politie can be appointed for all Ages, Times and Places; and after all Church Government is thus left of Humane Institution. In the 25 <hi>Article</hi> the <hi>Civil Magistrate</hi> is confest to have the special Power in settling it; Therefore the other Confession made at <hi>Westminster</hi> by being Voiced too, by the <hi>Commissioners</hi> sent from this, and after<g ref="char:EOLhyphen"/>wards approven by the <hi>General Assembly</hi> here, it is Adopted into this National Church of <hi>Scotland;</hi> and the 23. <hi>Chap:</hi> thereof Asserts the <hi>Supreme Civil Magistrate,</hi> his Power of establishing the External Po<g ref="char:EOLhyphen"/>litie of the Church; yea and the <hi>General Assembly</hi> in the <hi>Act</hi> Appro<g ref="char:EOLhyphen"/>bation of that Confession, for all its Protestation: That the 31 <hi>Ch:</hi> anent Synods and Councils should not incroach upon the Intrinsick Power of the Church, takes no notice of the <hi>Presbyterian Government</hi> hath a Divine Institution.</p>
+            <p>
+               <hi>Secondly,</hi> The <hi>Solemn League</hi> did not Abjure the <hi>President Bishop,</hi> Re<g ref="char:EOLhyphen"/>gulated by <hi>Canons,</hi> and ballanced by assisting <hi>Presbyters.</hi> For since the <hi>General Assembly</hi> here in <hi>Scotland</hi> by Her Acts, acknowledgeth that the <hi>Solemn League</hi> stricks against the same <hi>Episcopacy,</hi> against which the <hi>National Covenant</hi> was Levell'd; Then the single. Judgment of the <hi>Royal Martyr</hi> (The best <hi>Protestant</hi> and <hi>Casuist</hi> of his time) about the sense of the <hi>National Covenant</hi> which had the Authority to impose it, must doubtless weigh down the Opinion of all the Diffusive Church in <hi>Brittain,</hi> in this Question; and the World knows that his Prince<g ref="char:EOLhyphen"/>ly desire of a Regulation always hated the Destruction of <hi>Episcopacy.</hi> Then for the Church Representative of both Kingdoms, neither the Synod of <hi>Westminster,</hi> in Her Directory for Church Government, nor the <hi>General Assembly</hi> here conveened in her <hi>Act</hi> of <hi>Approbation</hi> of that Directory, do any thing in Condemnation of a <hi>President Bishop.</hi>
+            </p>
+            <pb facs="tcp:45891:2"/>
+            <p>But 3dly. The Reverend Ministers of the Presbyterian perswasion in <hi>England</hi> petitioned <hi>Anno</hi> 1661. The late K. <hi>Charles</hi> the 2d. for such an <hi>Episcopacy</hi> as is liker our present Establishment in <hi>Scotland,</hi> then any other seen by the <hi>Christian World</hi> these 1000. years. Their Peti<g ref="char:EOLhyphen"/>tions are Printed in two papers of proposals, in which they insist up<g ref="char:EOLhyphen"/>on the form of <hi>Synodical Government</hi> conjunct with a fixed presidency, according to <hi>Archbishop Ʋshers</hi> Reduction; and the last Motive in<g ref="char:EOLhyphen"/>ducing them to desire such a Government, is plainly this in Words, <hi>That it will save the Nation from the Violation of the Solemn Vow and Cove<g ref="char:EOLhyphen"/>nant, without wronging the Church at all, or breaking any other Oath.</hi> Now Reverend <hi>Brother,</hi> you know as well as my self, that the foresaid Re<g ref="char:EOLhyphen"/>duction by that most Reverend <hi>Primat of all Ireland;</hi> is liker our <hi>Episcopal Government,</hi> considering its Nature, then hath ever been en<g ref="char:EOLhyphen"/>joyed in any National Church since the Blessing of a Reformation: Yea, so very like in the Weekly Session, Monthly <hi>presbytrie,</hi> and <hi>Diocesian Synods,</hi> that with a due Modification, whereunto the Re<g ref="char:EOLhyphen"/>gular Clergy will be found complying, you would not be able to tell the Difference: Therefore beseeching the <hi>Authr of Peace</hi> and <hi>Lover of Concord,</hi> that all of us of <hi>Episcopal</hi> and <hi>Presbyterian</hi> perswa<g ref="char:EOLhyphen"/>sion, <hi>having One LORD, one Faith, one Baptism,</hi> may be brought to be <hi>all of one Mind,</hi> and <hi>Judgement,</hi> perfectly <hi>joyning together,</hi> without all Divisions in our <hi>Lord JESƲS CHRIST,</hi> In whom I rest, though unknown as yet,</p>
+            <closer>
+               <signed>Your Affectionate Servant, &amp;c. Rev. Bro.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>If the long Letter displease, pray let my good Will be forgiven, but if you think these Conside<g ref="char:EOLhyphen"/>rations by GODS Grace, can be useful for a Reconcilement, I give you Libtrty to publish them.</hi>
+               </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
